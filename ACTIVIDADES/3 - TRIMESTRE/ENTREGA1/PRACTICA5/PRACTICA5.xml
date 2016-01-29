@@ -1,0 +1,15 @@
+﻿<libro id="libro">
+	<titulo>Historia de Eminem</titulo>
+	<autores>Victor López Díaz</autores>
+	<editorial>Barca Nova</editorial>
+	<isbn>978-84-9964-101-0</isbn>
+	<telefono>915486805</telefono>
+	<fax>915676816</fax>
+	<internet>www.historiaeminem.com</internet>
+	<fechaPublicacion>
+		<dia>4</dia>
+		<mes>6</mes>
+		<año>2015</año>
+	</fechaPublicacion>
+	<maquetacion> Victor López Díaz</maquetacion>
+	</libro>

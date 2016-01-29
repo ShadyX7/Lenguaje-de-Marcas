@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+<biblioteca>
+
+<libro>
+<codigo>777</codigo>
+<titulo>Slim shady</titulo>
+<Editorial>Casanova</Editorial>
+<Edicion>Primera edición</Edicion>
+<ISBN>58-58561-84-8</ISBN>
+<Numero_de_paginas>350</Numero_de_paginas>
+<Autor> Victor López</Autor>
+</libro>
+
+</biblioteca>

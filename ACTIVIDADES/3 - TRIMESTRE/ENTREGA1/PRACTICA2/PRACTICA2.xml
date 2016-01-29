@@ -1,0 +1,7 @@
+﻿<alumno sexo ="varon" fechaNacimiento="5/6/1990">
+	<nombre>Pablo</nombre>
+	<apellido>Pérez</apellido>
+	<telefono tipo="movil">91555555</telefono>
+	<direccion>Ronda de Segovia 111</direccion>
+	
+</alumno>

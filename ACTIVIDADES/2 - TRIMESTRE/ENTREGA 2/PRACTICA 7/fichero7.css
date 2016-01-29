@@ -1,0 +1,18 @@
+﻿table { border-collapse: collapse;
+		width: 600px; }
+table td { border: 1px solid red; 
+		padding: 0 .3em;
+		text-align: center; height: 3em;}
+		
+table th { background: #CECEF6;
+		font-family: "comic sans ms"; 
+		border: 1px solid red;
+		padding: 0 .3em;
+		text-align: center; height: 3em;}
+		
+table tr { background: #F5F6CE; }
+
+table tr:hover {background: #F5A9F2;
+			font-size: 15px; }
+			
+			

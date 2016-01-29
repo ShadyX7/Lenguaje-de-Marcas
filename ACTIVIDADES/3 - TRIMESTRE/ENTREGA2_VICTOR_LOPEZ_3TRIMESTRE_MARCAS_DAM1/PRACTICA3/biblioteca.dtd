@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT biblioteca (libro*)>
+<!ELEMENT libro (codigo, titulo, Editorial, Edicion, ISBN,Numero_de_paginas, Autor)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT Editorial (#PCDATA)>
+<!ELEMENT Edicion (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT Edición (#PCDATA)>
+<!ELEMENT Numero_de_paginas (#PCDATA)>
+<!ELEMENT Autor (#PCDATA)>

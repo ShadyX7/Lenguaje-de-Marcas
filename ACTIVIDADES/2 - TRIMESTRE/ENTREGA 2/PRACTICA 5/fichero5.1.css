@@ -1,0 +1,33 @@
+﻿.menu { width: 180px;
+		list-Style: none;
+		margin: 0;
+		padding: 0;
+		border: 1px solid #7C7C7C; 
+		}
+		
+.menu li a { padding: .2em 0 .2em 1.5em;
+			display: block;
+			text-decoration: none;
+			color: #610B0B;
+			background: #F6CEF5 url("flecha_inactiva.png")
+			no-repat 3px;}
+			
+.menu li{border-bottom: 1px solid #7C7C7C;
+		border-top: 1px solid #FFFFFF;}
+		
+		
+.menu li a {padding: .2em 0 .2em 1.5em;
+	    display: block;text-decoration: none;
+		color:#610B0B;
+		background: #F6CEF5 url("flecha_inactiva.png")
+		no-repeat 3px;}
+			
+
+		
+.menu li a:hover, ul.menu2 li a:active
+		{background: #58FA58 url("flecha_activa.gif")
+		no-repeat 3px;}
+
+
+	
+	

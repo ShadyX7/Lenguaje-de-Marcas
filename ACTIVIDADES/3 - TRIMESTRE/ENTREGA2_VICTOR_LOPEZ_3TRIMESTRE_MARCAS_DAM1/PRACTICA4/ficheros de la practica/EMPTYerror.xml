@@ -1,0 +1,4 @@
+<!DOCTYPE ejemplo [ 
+  <!ELEMENT ejemplo EMPTY>
+]>
+<ejemplo>Esto es un ejemplo</ejemplo> 

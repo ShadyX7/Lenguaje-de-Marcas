@@ -1,0 +1,195 @@
+<ListaLibros>
+	<libro id="1">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="2">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="3">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="4">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="5">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="6">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	
+	<libro id="7">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="8">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	
+	<libro id="9">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+	<libro id="10">
+		<autores>
+			<autor>
+				<nombre>Victor</nombre>
+				<apellido1>López</apellido1>
+				<apellido2>Díaz</apellido2>
+			</autor>
+			
+			<autor>
+				<nombre>Javi</nombre>
+				<apellido1>Moreno</apellido1>
+				<apellido2>Hurtado</apellido2>
+			</autor>
+		</autores>
+		<titulo>El nuevo libro</titulo>
+		<editorial>Barcavieja</editorial>
+		<ISBN>2316546</ISBN>
+	</libro>
+	
+
+</ListaLibros>

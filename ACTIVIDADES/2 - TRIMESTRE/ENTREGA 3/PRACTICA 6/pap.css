@@ -1,0 +1,135 @@
+﻿#contenedor {
+	margin: auto;
+	width: 910px;
+}
+#cabecera {width: 900px;
+			padding: 0.5em;
+				float: right;
+					background-image: url(cabecera.png);
+						background-repeat: no-repeat;
+							background-position: center;
+								color: #FFF;}
+body {
+		background-image: url(fondo.jpg);
+			background-repeat: repeat-x;
+				background-color: #F2F5FE;
+					font-family: Verdana, Geneva, sans-serif;
+						font-size: 14px;
+}
+
+#busqueda {width: 250px;
+			float: right;
+				clear: none;
+					height: 100px;
+						overflow: visible;
+							padding-top: 10px;}
+
+#menu {width: 900px;
+		clear: both;
+			height: 30px;
+				border: 2px solid #FFF;
+					float: right;
+						padding: 0.5em;
+							background-color: #C7D6D1;}
+
+#pie {width: 910px;
+		clear: both;
+			text-align: center;
+				position: fixed;
+					bottom: 0px;
+						background-color: #FDF4B5;
+							border-top-width: thin;
+								border-right-width: thin;
+									border-bottom-width: thin;
+										border-left-width: thin;
+											border-top-style: double;
+												border-top-color: #03C;
+													border-right-color: #03C;
+														border-bottom-color: #03C;
+															border-left-color: #03C;
+																border-bottom-style: double;}
+#principal {
+			float: left;
+				width: 400px;
+					clear: none;
+						background-image: url(fprincipal.jpg);
+							background-repeat: repeat-y;}
+
+#lateralizquierdo {
+					float: left;
+						width: 245px;
+							clear: none;
+								margin-right: 10px;
+									background-image: url(flateral.jpg);
+										background-repeat: repeat-y;}
+
+#identificador {clear: none;
+					float: left;
+						width: 300px;
+							height: 100px;}
+#lateralderecho {
+				float: right;
+					width: 245px;
+						clear: none;
+							margin-left: 4px;
+								background-image: url(fderecho.jpg);
+									border-left-width: thin;
+										border-bottom-width: thin;
+											border-left-style: solid;
+												border-bottom-style: solid;
+													border-left-color: #999;
+														border-bottom-color: #999;}
+
+#menu ul{
+		list-style:none;
+			margin: auto;
+				display:block;
+					width: 80%;}
+#menu ul li{
+			list-style:none;
+					display:inline;
+						float:left;
+							height:25px;
+								width: 120px;
+									font-family: Verdana, Geneva, sans-serif;
+										font-size: 18px;}
+
+
+.articulo {
+		background-image: url(farticulo.jpg);
+			background-repeat: no-repeat;
+				padding: 20px;}
+.articulo h2 {
+		background-color: #D2DEFB;
+			color: #600;
+				padding: 10px;
+					margin-right: -10px;
+							margin-left: -10px;}
+h3 {
+	font-size: 150%;
+		font-weight: bold;
+			background-image: url(ftitulos.jpg);
+				padding: 10px;
+					text-align: center;
+}
+#noticias, #enlaces {
+			background-image: url(fnoticias.jpg);
+				background-repeat: no-repeat;
+					padding: 5px;
+						border-right-width: thin;
+							border-bottom-width: thin;
+								border-right-style: solid;
+									border-bottom-style: solid;
+										border-right-color: #999;
+											border-bottom-color: #999;
+}
+
+.articulo img {
+		float: left;
+			margin: 5px;
+}
+#lateralderecho h2 {
+	color: #FFF;
+		text-decoration: underline;
+			text-align: center;
+}

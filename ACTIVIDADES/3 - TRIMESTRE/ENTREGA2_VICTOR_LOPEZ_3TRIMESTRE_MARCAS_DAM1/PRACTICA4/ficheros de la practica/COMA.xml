@@ -1,0 +1,6 @@
+<!DOCTYPE ejemplo [ 
+  <!ELEMENT ejemplo (a, b)>
+  <!ELEMENT a EMPTY>
+  <!ELEMENT b EMPTY>
+]>
+<ejemplo><a /><b /></ejemplo>

@@ -1,0 +1,4 @@
+<!DOCTYPE ejemplo [ 
+  <!ELEMENT ejemplo (#PCDATA)>
+]>
+<ejemplo>Esto es un ejemplo</ejemplo>

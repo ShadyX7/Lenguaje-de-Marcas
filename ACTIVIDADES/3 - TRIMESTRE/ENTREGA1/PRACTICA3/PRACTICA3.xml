@@ -1,0 +1,12 @@
+﻿<alumno id="532">
+	<nombre>Pablo</nombre>
+	<apellido>Pérez</apellido>
+	<fechaNacimiento>
+		<dia>5</dia>
+		<mes>6</mes>
+		<año>1990</año>
+	</fechaNacimiento>
+	<sexo>varón</sexo>
+	<telefono tipo="movil">9155555</telefono>
+	<direccion>Ronda de Segovia 111</direccion>
+	</alumno>

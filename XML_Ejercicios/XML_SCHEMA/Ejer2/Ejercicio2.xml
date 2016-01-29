@@ -1,0 +1,56 @@
+<!-- Escribir un XML Schema para el siguiente documento XML, e incluir los cambios necesarios en el mismo para referenciar al esquema creado. Se debe cumplir también lo siguiente: 
+Los elementos “vehículo”, “nombre” y “modificacion” deben aparecer mínimo una vez, y el máximo no está limitado. El resto de los elementos deben aparecer 1 vez. 
+Todos los elementos que aparecen en el documento instancia de abajo son obligatorios y deben aparecer siempre en el mismo orden. 
+Los elementos que contienen información de fecha son todos de tipo cadena. 
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<vehiculos> 
+<vehiculo> 
+<nombre>Count Zero</nombre> 
+<modelo>Series I, 80"</modelo> 
+<fabricacion> 
+<inicio> 
+<dia>21</dia> 
+<mes>July</mes> 
+<anyo>1949</anyo> 
+</inicio> 
+<fin> 
+<dia>9</dia> 
+<mes>August</mes> 
+<anyo>1949</anyo> 
+</fin> 
+</fabricacion> 
+<modificaciones> 
+<modificacion>Change Engine</modificacion> 
+<modificacion>Change pedals</modificacion> 
+<modificacion>Change gearbox</modificacion> 
+<modificacion>Fit Rollcage</modificacion> 
+</modificaciones> 
+</vehiculo> 
+</vehiculos> -->
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<vehiculos  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Ejer2.xsd">
+  <vehiculo>
+    <nombre>Count Zero</nombre>
+    <modelo>Series I, 80"</modelo>
+    <fabricacion>
+      <inicio>
+        <dia>21</dia>
+        <mes>July</mes>
+        <anyo>1949</anyo>
+      </inicio>
+      <fin>
+        <dia>9</dia>
+        <mes>August</mes>
+        <anyo>1949</anyo>
+      </fin>
+    </fabricacion>
+    <modificaciones>
+      <modificacion>Change Engine</modificacion>
+      <modificacion>Change pedals</modificacion>
+      <modificacion>Change gearbox</modificacion>
+      <modificacion>Fit Rollcage</modificacion>
+    </modificaciones>
+  </vehiculo>
+</vehiculos>

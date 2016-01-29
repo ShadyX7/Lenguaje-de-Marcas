@@ -1,0 +1,109 @@
+﻿html, body {
+font-family : verdana;
+font-size : 12px;
+color : #666666;
+background-image:url("imagenfondo.jpg");
+height : 100%;
+
+}
+
+#contenido {
+margin : 0 auto; 
+padding : 0px;
+width : 750px;
+height : 140%;
+
+}
+
+#cabecera {
+height : 60px;
+padding-top : 15px;
+color : black;
+background-image : url(logocabecera.jpg);
+
+
+}
+#secundario {
+float :left;
+width :200px;
+padding :5px;
+background-color :#82FA58;
+border :1px solid #0B610B;
+height :100%;
+
+}
+#secundario ul {
+list-style :none;
+margin-left :1em;
+width :130px;
+border :1px solid #7C7C7C;
+
+}
+#secundario .tiposparques {
+list-style :none;
+margin-left : 1em;
+width : 180px;
+border : 1px solid #7C7C7C;
+}
+#secundario h3 {
+color :#FF8000;
+
+}
+#secundario ul li a {
+padding :.2em 0 .2em 1.5em;
+display :block;
+text-decoration :none;
+color :#0080FF;
+background :#D7DF01;
+
+}
+#secundario ul li a:hover, ul li a:active {
+background : #FFBF00;
+}
+#principal {
+margin-left : 210px;
+padding : 5px;
+background-color : #B18904;
+border : 1px solid #555555;
+height : 100%;
+
+}
+#principal img {
+padding : 10px;
+float : right;
+width : 50%;
+}
+#principal h3 {
+background : white;
+color : #B4045F;
+
+
+}
+* {
+margin : 0;
+padding : 0;
+}
+
+#pie {
+background-color : #0174DF;
+height : 30px;
+color : white;
+padding : 10px 0px 0px 10px;
+
+}
+
+#pie .enlaces {
+float : left;
+}
+#pie .enlaces a {
+color : white;
+text-decoration : none;
+}
+#pie .enlaces a:hover {
+color : white;
+background-color : #2E9AFE;
+}
+#pie .creador {
+float : right;
+margin-right : 15px;
+}

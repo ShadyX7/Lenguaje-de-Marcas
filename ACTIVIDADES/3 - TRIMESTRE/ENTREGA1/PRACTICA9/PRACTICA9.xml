@@ -1,0 +1,12 @@
+<biblioteca xmlns:biblio="http://milibro.es">
+<biblio:libro><titulo>Shady es eterno</titulo>
+<autor>López Víctor</autor>
+<editorial>Barcanova</editorial>
+<fpublicacion>02/08//14</fpublicacion>
+<isbn>12341234125</isbn>
+<telefono>912586507</telefono>
+<correo>milibro@hotmail.com</correo>
+<fax>915476982</fax>
+<diseñoportada>Alberto</diseñoportada>
+<direccion>C/Falsa,5 28054 Madrid</direccion>
+</biblio:libro></biblioteca>
